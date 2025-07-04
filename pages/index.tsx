@@ -33,7 +33,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li className="tracking-[-.01em]">
+          <li className="tracking-[-.01em] text-yellow-500 text-5xl">
             Save and see your changes instantly.
           </li>
         </ol>
